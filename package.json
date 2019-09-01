@@ -1,0 +1,16 @@
+{
+  "name": "pritesh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d HTML"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://pritesh-lunkad.github.io/MyPortfolio"
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
